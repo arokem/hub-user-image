@@ -41,7 +41,6 @@ dependencies:
   - s5cmd
   - imbalanced-learn
   - tensorflow
-  - nitime
   - openneuro-py
   - jupytext
   - pip
